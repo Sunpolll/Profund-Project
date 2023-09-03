@@ -1,2 +1,1 @@
 # Profund-Project
-![](description.pdf)
