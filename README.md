@@ -1,4 +1,4 @@
-# Profund-Project
+# GUI สำหรับการแสดงข้อมูลการเกิดและเสียชีวิตของประชากรในกรุงเทพ
 ![](descriptions/description-1.png)
 ![](descriptions/description-2.png)
 ![](descriptions/description-3.png)
